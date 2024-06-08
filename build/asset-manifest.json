@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2cbc6a2.css",
+    "main.js": "/static/js/main.ced82ccd.js",
+    "static/media/iphone.png": "/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/index.html",
+    "main.e2cbc6a2.css.map": "/static/css/main.e2cbc6a2.css.map",
+    "main.ced82ccd.js.map": "/static/js/main.ced82ccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2cbc6a2.css",
+    "static/js/main.ced82ccd.js"
+  ]
+}
